@@ -16,4 +16,8 @@ Vue.js framework is used to create components, route on different pages, and han
 
 
 
+## Backend
+[FNT-Backend](https://github.com/RamtinHaf/FNT-BACKEND-b)
 
+## Frontend
+[FNT-Frontend](https://github.com/RamtinHaf/FNT-FRONTEND)
