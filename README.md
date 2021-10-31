@@ -1,5 +1,5 @@
 # FORGERY NEWS TRACKER
-This is our website - [FORGERY NEWS TRACKER SITE](https://ramtinhaf.github.io/)
+→ [FORGERY NEWS TRACKER SITE](https://ramtinhaf.github.io/) ←
 
 ## Problem
 The task at hand was: "Given a claim or some fake news the application should track its coverage in various social media platforms." Input to the system would be a textual claim such as "Earth is flat", the expected output would be a visualization of analytics of the coverage in social networks such as Twitter and Reddit. Visualize how many users are sharing, liking, retweeting, how deep the message spreads etc. How does it compare to non-fake news about a similar topic? The main goal of this thesis is to visualize the data, the spread of the query, and compare two different queries. The project group was given the option to choose which languages and programs to achieve the given problem description.
